@@ -1,10 +1,10 @@
+<img alt="GIF" height="300px" width="400px" src="./assets/hellothere.gif" />
+
 ### Hi, I'm Markus Mutas 👋
 
 I am a Computer Science Student from Germany, currently pursuing the last steps for my Master's degree. 
 Additionally, I am a software developer at [adesso SE](https://adesso.de)
 Im from Hamburg and I go to the Hamburg University of Technology.
-
-<img align="right" alt="GIF" height="300px" width="300px" src="./assets/hellothere.gif" />
 
 - 🔭 I’m currently performing research for my master thesis on the vulnerability of AI-generated code
 - 🌱 I’m currently learning Go, Ruby on Rails, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
