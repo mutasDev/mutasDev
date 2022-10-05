@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Markus Mutas 👋
 
-<!--
-**mutasDev/mutasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Student from Germany, currently pursuing the last steps for my Master's degree. 
+Additionally, I am a software developer at [adesso SE](https://adesso.de)
+Im from Hamburg and I go to the Hamburg University of Technology.
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" height="300px" width="300px" src="./assets/hellothere" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently performing research for my master thesis on the vulnerability of AI-generated code
+- 🌱 I’m currently learning Go, Ruby on Rails, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
+- 👯 I’m willing to collaborate on building communitites, and research projects.
+- 📫 [Mail](mailto:markus@mutas.dev) [Twitter](https://twitter.com/mutasdev)
+
+
+<br>
+<a href="https://twitter.com/mutasDev">
+  <img align="left" alt="Markus Mutas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/markus-mutas-6a735a174/">
+  <img align="left" alt="Markus' LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
