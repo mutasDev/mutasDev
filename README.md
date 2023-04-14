@@ -3,11 +3,10 @@
 ### Hi, I'm Markus Mutas 👋
 
 I am a Computer Science Student from Germany, currently pursuing the last steps for my Master's degree. 
-Additionally, I am a software developer at [adesso SE](https://adesso.de)
-Im from Hamburg and I go to the Hamburg University of Technology.
+Additionally, I am a software developer at [slashwhy](https://slashwhy.de)
+I'm living in Hamburg where I study at the Hamburg University of Technology.
 
 - 🔭 I’m currently performing research for my master thesis on the vulnerability of AI-generated code
-- 🌱 I’m currently learning Go, Ruby on Rails, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 - 📫 [Mail](mailto:markus@mutas.dev) [Twitter](https://twitter.com/mutasdev)
 
