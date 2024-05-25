@@ -2,12 +2,9 @@
 
 ### Hi, I'm Markus Mutas 👋
 
-I am a Computer Science Student from Germany, currently pursuing the last steps for my Master's degree. 
-Additionally, I am a software developer at [slashwhy](https://slashwhy.de)
-I'm living in Hamburg where I study at the Hamburg University of Technology.
+I am a Software Engineer  and a M. Sc. in Computer Science from Hamburg, Germany. 
+I am currently employed at [slashwhy](https://slashwhy.de).
 
-- 🔭 I’m currently performing research for my master thesis on the vulnerability of AI-generated code
-- 👯 I’m willing to collaborate on building communitites, and research projects.
 - 📫 [Mail](mailto:markus@mutas.dev) [Twitter](https://twitter.com/mutasdev)
 
 
